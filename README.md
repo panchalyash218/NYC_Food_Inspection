@@ -5,3 +5,4 @@
 performance by 30%.
 • Data Integrated was loaded into MS SQL improving the query efficiency by 25%. 
 • Analyzed the Data using PowerBI and Tableau which depicted many KPIs of the NYC Food Inspection.
+POWER BI - 
